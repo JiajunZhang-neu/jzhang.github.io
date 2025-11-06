@@ -1,0 +1,4 @@
+1. PVA support filament really need to go through the TPU outlet of AMS HT. It will simply break and stuck in the frontal automatic outlet.
+2. When using the TPU outlet of AMS HT, we can active the drying function of AMS HT during printing.
+3. PVA support filament should go through the TPU input of H2D to the right nozzle.
+4. PLA tough + can be very sticky on the build plate. Try to open a gap and add some ethanol to help remove.
